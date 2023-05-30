@@ -140,9 +140,8 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Tedeapolis, wordt hierbij ing
 
 ### Artikel 7 - Baiting
 
-1. Hij/zij die moedwillig ambtenaren uitlokt met de intentie deze te irriteren en/of bezig te houden zal bestraft worden met een straf volgens de 1e categorie.
-2. Hij/zij die moedwillig officieel onnodig uitlokt zonder verdere intentie tot roleplay en/of bezig te houden zal bestraft worden met een straf volgens de 1e categorie.
-3. De overtreding zoals beschreven in lid 1 en lid 2 staat bekend als “baiting”
+1. Hij/zij die moedwillig medespelers onnodig uitlokt en/of anderen aan het irriteren is zonder verdere intentie tot roleplay zal bestraft worden met minstens een straf volgens de 1e categorie.
+2. De overtreding zoals beschreven in lid 1 staat bekend als “baiting”.
 
 ### Artikel 8 - Spam
 
@@ -163,8 +162,10 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 
 1. Er wordt van personen geacht realistisch rijgedrag aan te houden. Dus niet met circuit auto’s door de woestijn heen rijden met 100 km/u.
 2. Overtredingen van lid 1 worden bestraft met een straf van de 1e categorie.
-3. Buiten de weg rijden mag, mits dit met matige snelheid gedaan wordt en met een geschikt voertuig, pas hierbij dus ook de snelheid aan voor het type voertuig. Een lijst met voertuigen is [hier](https://wetboek.tedeapolis.nl/offroadvoertuigen/) te vinden.
-4. De overtreding zoals beschreven in lid 1 staat bekend als “GTA driving”
+3. Buiten de weg rijden mag, mits dit met matige snelheid gedaan wordt en met een geschikt voertuig. Pas hierbij dus ook de snelheid aan voor het type voertuig. Een lijst met voertuigen en de verschillende classificaties is [hier](https://wetboek.tedeapolis.nl/offroadvoertuigen/) te vinden.
+4. In de spoorwegtunnels die zich onder de stad bevinden en alle tunnels die daar direct op aangesloten zijn is het enkel toegestaan om met voertuigen te rijden die de classificatie A hebben en dus onder het kopje Off-Road staan.
+5. De overtreding zoals beschreven in lid 1 staat bekend als “GTA style driving”.
+6. Op onverharde wegen is de maximale toegestane snelheid 50km/u voor alle voertuigen die niet genoemd staan onder het kopje onverhard of off-road [hier](https://wetboek.tedeapolis.nl/offroadvoertuigen/).
 
 ### Artikel 11 - Value of Life
 
@@ -173,6 +174,7 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 3. Enkele voorbeelden van “no value of life”:
     * zodra iemand een pistool op je richt binnen 50 meter en er geen beschutting is, blijf je staan, werk je mee en val je deze persoon niet aan.
     * Zodra iemand een steek- of slagwapen binnen armlengte afstand van je trekt dan werk je mee, doe je dit niet ben je niet zuinig met je leven aangezien je dat bewust het risico neemt neergestoken of neergeslagen te worden.
+    * Het bovenstaande voorbeeld is alleen van toepassing als de persoon die het wapen trekt ook een bedreiging vormt voor jou of anderen. 
     * Met een helikopter vlak boven de grond zweven om goederen en/of personen te transporteren.
     * Elke andere vorm waarmee je bewust je eigen leven in een té groot gevaar brengt valt onder no value of life, dus gebruik je gezonde verstand om de situatie in te schatten.
     * Zodra een persoon een wapen in zijn hand heeft en jij gaat hem proberen te boeien of richting hem te rennen word dit gezien als no value of life. Wanneer jij van dat persoon weet dat hij/zij een vuur-, steek- of slagwapen op zak heeft, zal je ervoor moeten zorgen hem/haar te overmeesteren door enige vorm van bedreigende middelen toe te passen.
@@ -304,17 +306,16 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
     * Facturen en/of andere items welke gerelateerd aan een baan zijn
     * Overheids voorwerpen
     * Onder dwang iemand zijn huis betreden en dan leegroven
-3. Met betrekking tot de volgende dingen/situaties is oplichten niet toegestaan:
-    * Voertuigen (muv. tunes)
-4. Voertuigen kunnen ook niet meer gebruikt worden bij illegale deals en kunnen enkel met legaal geld gekocht worden.
-5. Het is de verantwoordelijkheid van de kopende partij om te controleren of de aangeboden aanpassingen (ook wel bekend als tunes) op het voertuig aanwezig zijn ten tijde van overdracht van het voertuig. Het is dus volledig jouw eigen risico wanneer je er voor kiest om niet de tunes te controleren. Wanneer je moedwillig alsnog mensen gaat scammen met tunes kan hier alsnog op gestraft worden.
-6. Met criminele activiteiten zoals vermeld in lid 1 worden dingen met betrekking tot drugs, overvallen, witwassen, het dragen van een masker, kogelwerend vest, holster etc bedoeld, en dus geen overtredingen.
-7. Bij een overtreding van de wet in lid 1 en/of lid 2 en/of lid 3 wordt de persoon gestraft volgens de 4e categorie en wordt het geld teruggegeven aan het slachtoffer. Wanneer de persoon het geld al heeft uitgegeven zal het resulteren in straf van de 8e categorie.
-8. Hou hiermee wel rekening dat het bij het vergrijp zoals beschreven in lid 1 niet de bedoeling is hiermee misbruik te maken van onwetendheid van mensen, dus vermijd het oplichten van nieuwe spelers.
-9. Het is voor criminelen toegestaan om mensen gedurende langere tijd te ondervragen en/of te martelen. Echter mag dit maximaal circa 2 uur duren. Er dient ook goede roleplay aan gekoppeld te worden. Dit is ter beoordeling aan een stafflid.
-10. Bij een overtreding van de regel in lid 7 wordt de persoon gestraft volgens de 1e categorie en zal het scenario onmiddellijk worden teruggedraaid.
-11. De bescherming tegen oplichting zoals genoemd in lid 2 & 3 geldt alleen wanneer je het te betalen bedrag volledig ontvangt, op het moment van verkoop.
-12. Het counteren van een overval is niet toegestaan van zodra politie en/of KMAR ter plaatse is.
+    * Voertuigen
+3. Voertuigen kunnen ook niet meer gebruikt worden bij illegale deals en kunnen enkel met legaal geld gekocht worden.
+4. Het is de verantwoordelijkheid van de kopende partij om te controleren of de aangeboden aanpassingen (ook wel bekend als tunes) op het voertuig aanwezig zijn ten tijde van overdracht van het voertuig in een modshop. Het is dus volledig jouw eigen risico wanneer je er voor kiest om niet de tunes te controleren in de modshop. Scammen van voertuigen en/of tunes blijft ten allen tijden strafbaar.
+5. Met criminele activiteiten zoals vermeld in lid 1 worden dingen met betrekking tot drugs, overvallen, witwassen, het dragen van een masker, kogelwerend vest, holster etc bedoeld, en dus geen overtredingen.
+6. Bij een overtreding van de wet in lid 1 en/of lid 2 wordt de persoon gestraft volgens de 4e categorie en wordt het geld teruggegeven aan het slachtoffer. Wanneer de persoon het geld al heeft uitgegeven zal het resulteren in straf van de 8e categorie.
+7. Hou hiermee wel rekening dat het bij het vergrijp zoals beschreven in lid 1 niet de bedoeling is hiermee misbruik te maken van onwetendheid van mensen, dus vermijd het oplichten van nieuwe spelers.
+8. Het is voor criminelen toegestaan om mensen gedurende langere tijd te ondervragen en/of te martelen. Echter mag dit maximaal circa 2 uur duren. Er dient ook goede roleplay aan gekoppeld te worden. Dit is ter beoordeling aan een stafflid.
+9. Bij een overtreding van de regel in lid 7 wordt de persoon gestraft volgens de 1e categorie en zal het scenario onmiddellijk worden teruggedraaid.
+10. De bescherming tegen oplichting zoals genoemd in lid 2 geldt alleen wanneer je het te betalen bedrag volledig ontvangt, op het moment van verkoop.
+11. Het counteren van een overval en/of gijzelingen is niet toegestaan van zodra politie en/of KMAR ter plaatse is.
 
 ### Artikel 28 - Criminaliteit & Ambtenaren
 
@@ -393,8 +394,9 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 2. Het is niet toegestaan om te ontsnappen of jezelf uit te laten breken indien er is afgesproken om het roleplayscenario op een later tijdstip voort te zetten, bijvoorbeeld vanwege tijdsgebrek of andere beperkingen.
 3. Het is niet toegestaan om een uit-dienst politiemedewerker te ontvoeren om een ontsnapping van een arrestant uit het cellencomplex te faciliteren of te vergemakkelijken. Deze agenten zijn op dat moment immers niet bezig met de uitvoering van de politietaak.
 4. Het is niet toegestaan om jezelf voor te doen als overheidsmedewerker bij het ontsnappen of helpen ontsnappen van een derde persoon uit het cellencomplex.
-5. Het is verboden om tussen 23:00 en 10:00 uit het cellencomplex te breken.
-6. Bij overtreding van dit artikel zal er een straf uitgedeeld worden volgens de 1e categorie en zal het roleplayscenario worden teruggedraaid.
+5. Het is verboden om tussen 01:30 en 10:00 uit het cellencomplex te breken.
+6. Er moet ten allen tijden 10+ politie beschikbaar zijn, als er 6 - 10 politie aanwezig zijn mag je niet ontsnappen.
+7. Bij overtreding van dit artikel zal er een straf uitgedeeld worden volgens de 1e categorie en zal het roleplayscenario worden teruggedraaid.
 
 ### Artikel 38 - Witwassen
 
@@ -440,8 +442,10 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 
 ### Artikel 41 - Campen van een niet actieve drugslocatie
 
-1. Het campen van een niet actieve drugslocatie is niet toegestaan.
-2. Het overtreden van deze regel zal resulteren in een straf uit de 2e categorie.
+1. Het campen van een niet actieve drugslocatie is niet toegestaan, zowel op land en op het eiland.
+2. Zodra je binnen 1000 meter van de pluk bent, kan dit onder campen vallen. Dit is ter beoordeling aan een stafflid.
+3. Het is niet toegestaan om constant op en neer te rijden naar een niet-actieve drugs locatie, om zo de camp regel te omzeilen. Als dit blijft gebeuren zullen er sancties komen. Dit is ter beoordeling aan een stafflid.
+4. Het overtreden van deze regel zal resulteren in een straf uit de 2e categorie.
 
 ## Overige bepalingen
 
@@ -563,30 +567,32 @@ Onderstaande regels tellen alleen op Narcopolis
 3. Bij overtreding van lid 1 of lid 2 zal een straf worden gegeven van de 1e categorie.
 4. Er mag op binnenkomende vluchten en schepen geschoten worden, die niet afkomstig zijn van de koninklijke marechaussee.
 
-### Artikel N-2 - Landen van helikopers/vliegtuigen
+### Artikel N-2 - Inladen van helikopers/vliegtuigen
 
-1. Het is verplicht om te landen op een helipad, een landingsbaan of in een straal van 50 meter van een helipad/landingsbaan.
-2. De sea sparrow en dodo mag wel op open water rondom het eiland geland worden.
+1. Wanneer jij drugs wilt inladen in een vliegtuig of helikopter moet het vliegtuig of de helikopter binnen een straal van 50 meter van een helipad of landingsbaan staan.
+2. De sea sparrow en dodo mag wel volgeladen worden op open water.
 3. Bij overtreding van het feit beschreven in lid 1 of lid 2 wordt een straf van de 1e categorie uitgedeeld.
 
-### Artikel N-3 - Campen van een niet actieve drugslocatie
-
-1. Het campen van een niet actieve drugslocatie Narcopolis is niet toegestaan.
-2. Het overtreden van deze regel zal resulteren in een straf uit de 2e categorie.
-
-### Artikel N-4 - Samenwerking criminele organisaties
+### Artikel N-3 - Samenwerking criminele organisaties
 
 1. Op Narcopolis is het voor een officiële groep niet toegestaan om samen te werken met een officiele of onofficiele groep of persoon.
 2. Uitzondering op lid 1 is er voor het kopen en verkopen van drugs. Dit mag wel gedaan worden op het eiland tussen verschillende groepen en personen.
 3. Bij overtreding van lid 1 zal dit resulteren in een straf volgens de 5e categorie voor iedereen die meedeed aan het Roleplayscenario.
 4. Bij herhaling na de straf van de 5e categorie wordt er een gang strike uitgedeeld.
 
+### Artikel N-4 - Campen van een niet actieve drugslocatie
+1. Het campen van een niet actieve drugslocatie is niet toegestaan op het eiland.
+2. Zodra je binnen 1000 meter van de pluk bent, kan dit onder campen vallen. Dit is ter beoordeling aan een stafflid.
+3. Het is niet toegestaan om constant op en neer te rijden naar een niet-actieve drugs locatie, om zo de camp regel te omzeilen. Als dit blijft gebeuren zullen er sancties komen. Dit is ter beoordeling aan een stafflid.
+4. Het overtreden van deze regel zal resulteren in een straf uit de 2e categorie.
+
 ## Tijdelijke bepalingen
 
 ### Artikel T-1 - Uitbreken uit de gevangenis
 
-1. Het is verboden om tussen 23:00 en 10:00 uit de gevangenis te breken.
-2. Bij overtreding van het feit beschreven in lid 1 wordt een straf van de 2e categorie uitgedeeld.
+1. Het is verboden om tussen 01:30 en 10:00 uit de gevangenis te breken.
+2. Er moet ten allen tijden 10+ koninklijke marechaussee beschikbaar zijn, als er 6 - 10 koninklijke marechaussee aanwezig zijn mag je niet uitgebroken worden.
+3. Bij overtreding van het feit beschreven in lid 1 of lid 2 wordt een straf van de 2e categorie uitgedeeld.
 
 ## Slotbepaling: Regels in het kort
 

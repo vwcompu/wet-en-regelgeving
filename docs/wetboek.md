@@ -27,10 +27,10 @@
 ### A3 - Verjaring van het strafbaar feit
 
 1. Het recht tot strafvordering vervalt door verjaring:
-    * Voor misdrijven waar de totale strafeis tussen de 1 en 50 maanden bedroeg, verjaren deze feiten na 10 dagen;
-    * Voor misdrijven waar de totale strafeis tussen de 51 en 85 maanden maanden bedroeg, verjaren deze feiten na 15 dagen;
-    * Voor misdrijven waar de totale strafeis tussen de 86 en 100 maanden bedroeg, verjaren deze feiten na 30 dagen;
-    * Voor misdrijven waar de totale strafeis meer dan 100 maanden bedroeg, verjaren deze feiten na 45 dagen;
+    * Voor misdrijven waar de totale strafeis tussen de 1 en 100 maanden bedroeg, verjaren deze feiten na 10 dagen;
+    * Voor misdrijven waar de totale strafeis tussen de 101 en 150 maanden maanden bedroeg, verjaren deze feiten na 15 dagen;
+    * Voor misdrijven waar de totale strafeis tussen de 151 en 250 maanden bedroeg, verjaren deze feiten na 30 dagen;
+    * Voor misdrijven waar de totale strafeis meer dan 250 maanden bedroeg, verjaren deze feiten na 45 dagen;
 
 ### A4 - Strafbepaling
 
@@ -142,9 +142,9 @@
 7. Indien er onduidelijkheid is over medeplegen of medeplichtigheid tijdens een strafzaak dan kan een Hulpofficier van Justitie, Officier van Justitie of in uiterste gevallen een rechter hierover een eindoordeel vellen.
 
 ### A12 - Voorhechtenis
-    1. Voorhechtenis is alleen toegestaan voor feiten waar een celstraf op staat.
-    2. Voorhechtenis kan alleen gegeven worden indien er wettig overtuigend bewijs is dat de verdachten een strafbaar feit heeft begaan.
-    3. Maximale periode van de voorhechtenis is 24 uur, dit kan verlengt worden tot 48 uur door een hOvj (denk aan bijvoorbeeld aan Recherche zaken).
+1. Voorhechtenis is alleen toegestaan voor feiten waar een celstraf op staat.
+2. Voorhechtenis kan alleen gegeven worden indien er wettig overtuigend bewijs is dat de verdachte een strafbaar feit heeft begaan.
+3. De maximale periode van de voorhechtenis is 24 uur. Dit kan maximaal verlengt worden tot 72 uur voorarrest door een hOvJ.
 
 ## Titel I - Vermogensdelicten
 
@@ -555,6 +555,7 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 5. Bij het voertuig mogen geen deuren ontbreken, indien deze wel aanwezig behoren te zijn.
 6. Het voertuig dient een eentonige claxon te voeren.
 7. Het voertuig dient vrij te zijn van een WOK-status bij deelname aan het verkeer.
+8. Het licht van de koplampen van het voertuigen dient een witte of gele kleur te hebben.
 
 #### Strafbepalingen Voertuigeisen
 
@@ -576,6 +577,7 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 | Rijden zonder kentekenplaten | € 10000,- |
 | Ramen dusdanig donker getint zodat de bestuurder en passagier voor in niet zichtbaar zijn | € 7500,- |
 | Verlichting(NEON) onder het voertuig | € 2500,- |
+| Rijden met koplampen met een andere lichtkleur dan wit of geel | € 5000,- |
 
 ### Artikel III-13 Overige verkeersboetes
 
@@ -693,10 +695,15 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 2. Schuldig is ook een persoon die de ingrediënten, benodigd voor het vervaardigen van softdrugs, vergaart, in bezit heeft, of verkoopt.
 3. Strafbepaling geschiedt op grond van de totale hoeveelheid die aangetroffen is, ook wanneer dit verspreid is over meerdere personen.
 4. Niet schuldig is een persoon die 5 ingrediënten 1 eindproduct voor eigen gebruik bij zich draagt.
-5. De hoeveelheid zoals bedoeld in lid 3 wordt opgeteld ten laste gelegd per persoon.
-6. Wanneer niet te bewijzen valt dat meerdere personen in samenwerking waren wordt de strafbepaling niet opgeteld toegepast.
-7. Strafbepaling geschiedt op basis van aantallen ingrediënten en aantallen eindproducten.
-8. Wanneer er een mix van de aantallen in lid 7 aangetroffen wordt, zal er met een berekening van het aantal eindproducten maal 5, een totaal aan goederen berekend worden. De strafbepaling geschiedt vervolgens zoals bepaald in lid 2.
+5. Een persoon die geen eerdere registratie dan wel strafblad bezit van dit feit, kan bij heterdaad ontdekking voorhanden hebben van maximaal 15 ingrediënten en/of 6 eindproducten vrijwillig afstand tekenen.
+6. De persoon die vrijwillig afstand tekent van het genoemde in lid 5, ontvangt een geldboete;
+   - Vanaf 6 tot 16 ingrediënten: €2000,-
+   - Vanaf 2 tot 6 eindproducten: €4000,-
+7. De hoeveelheid zoals bedoeld in lid 3 wordt opgeteld ten laste gelegd per persoon.
+8. Het genoemde in lid 5 betreft de 'First-Offender' regeling en is eenmalig uitvoerbaar.
+9. Wanneer niet te bewijzen valt dat meerdere personen in samenwerking waren wordt de strafbepaling niet opgeteld toegepast.
+10. Strafbepaling geschiedt op basis van aantallen ingrediënten en aantallen eindproducten.
+11. Wanneer er een mix van de aantallen in lid 10 aangetroffen wordt, zal er met een berekening van het aantal eindproducten maal 5, een totaal aan goederen berekend worden. De strafbepaling geschiedt vervolgens zoals bepaald in lid 2.
 
 #### Rekentabel Softdrugs: ingrediënten
 
@@ -1032,6 +1039,7 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 ### Artikel VIII-11 Betreden van verboden domein
 
 1. Schuldig is een persoon die zonder daartoe gerechtigd is, over iemand anders zijn grond waarvan de toegang op een voor hem blijkbare wijze door den rechthebbende is verboden, loopt, rijdt of vee laat lopen.
+2. Schuldig is een persoon die zonder daartoe gerechtigd is, over bij wet geclassificeerde verboden domeinen te lopen, rijden, varen, vliegen of landen zonder nadrukkelijke en aantoonbaar toestemming te hebben verkregen van de Politie, Koninklijke Marechaussee, Koninklijke Luchtmacht of Korps Commando Troepen.
 
 | Bij wet geclassificeerde verboden domeinen |
 |---|
@@ -1123,6 +1131,17 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 | Tweede Veroordeling  | 20 maanden |  | € 5000,-  |
 | Meerdere Veroordelingen  | 40 maanden |  | € 10000,-  |
 
+### Artikel VIII-18 Misdrijven tegen het openbaar gezag (189 SR)
+
+1. Schuldig is een persoon die opzettelijk iemand die schuldig is aan of verdacht wordt van enig misdrijf behulpzaam is in het ontkomen aan de nasporing van of aanhouding door enige ambtenaar in functie.
+2. Schuldig is een persoon die opzettelijk voorwerpen vernietigd of ontneemt om de inbeslagneming door een ambtenaar in functie te beletten of te belemmeren. 
+
+|  |Celstraf  | Taakstraf  | boete  |
+|---|---|---|---|
+|  Eerste Veroordeling | 12 maanden |  | € 10.000,-  |
+| Tweede Veroordeling  | 36 maanden |  | € 15.000,-  |
+| Meerdere Veroordelingen  | 48 maanden |  | € 20.000,-  |
+
 ## Titel IX – Schadevergoeding
 
 ### Artikel IX-1 (Im)materiële schadevergoeding voor onterechte inverzekeringstelling of voorlopige hechtenis (artikel 533 sv)
@@ -1161,18 +1180,6 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 | Onterecht inzet surveillancehond als geweldsmiddel | € 5000,- |
 | Onterecht gebruik vuurwapen (cat. 2) als geweldsmiddel | € 7000,- |
 
-### Artikel IX-3 (Im)materiële schadevergoeding voor buitensporig geweld door burger jegens overheidsmedewerker
-
-1. Een overheidsmedewerker zoals bedoeld in dit artikel is een ambtenaar in functie werkzaam voor: Politie/KMAR, Ambulance of Justitie.
-2. Bij bepaling of buitensporig geweld van toepassing is wordt uitgegaan van Artikel II-6 Eenvoudige mishandeling (300 SR), Artikel II-7 Zware mishandeling (302 SR), Artikel II-2 Gijzeling (282 SR) en Artikel II-3 Bedreiging (285 SR). Artikel II-4 Doodslag (287 SR) en Artikel II-5 Moord (289 SR) zijn alleen van toepassing indien het een "poging tot" betreft.
-3. Buitensporig geweld dient jegens een overheidsmedewerker te zijn toegepast.
-4. Indien verdachte conform lid 2 wordt veroordeeld wordt de boete die ontstaat uit de artikelen benoemt in lid 2 met 33% verhoogd en komt dit 33% deel als vergoeding ten gunste van de getroffen overheidsmedewerker.
-5. Indien meerdere overheidsmedewerkers slachtoffer zijn van het buitensporig geweld, dan wordt de vergoeding zoals beschreven in lid 4 evenredig verdeeld over de overheidsmedewerkers.
-6. Een vergoeding die ten gunste komt van de getroffen overheidsmedewerker is alleen mogelijk indien een advocaat is betrokken bij de zaak.
-7. Een uitzondering op lid 6 is indien er een besluit is genomen door OvJ/HOvJ/hOvJ die betrokken wordt bij de zaak.
-8. Het schadevergoeding document kan alleen worden ondertekend door korpsleiding of een OvJ/HOvJ/hOvJ.
-9. Schadevergoeding wordt uitgekeerd vanuit de korpsleiding op vertoon van het schadevergoeding document.
-
 ## Titel X – Algemene douanewet
 
 ### Artikel X-1 Negeren van controle grensinspectiepost (1:1 - 1:31 Algemene Douanewet)
@@ -1192,16 +1199,18 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 | Binnenland     | Gebieden met een vast ondergrond (zand/aarde/steen) |
 | Binnenwater     | Rivieren, kanalen en meren zonder directe verbinding met de open zee/oceaan, die voor schepen en/of boten bevaarbaar zijn |
 
-1. De douane is bevoegd aan controle te onderwerpen:
-    1. Personen en/of vervoermiddelen en/of plaatsen voor distributie en overslag voor goederen die over de weg worden vervoerd, havens, haventerreinen, luchthavens, grensinspectiepost en luchtvaartterreinen.
-    2. Controle zoals beschreven in lid 1 is alleen van toepassing op gebieden die staan gemarkeerd als douanegebied op de douanekaart. Zie hiervoor de kaart douanegebieden in het wetboek.
-    3. Uitzondering op lid 1b betreft vervoersmiddelen en/of personen, die aantoonbaar door de douane, vanuit open water het binnenland of binnenwater betreden.
+1. De Koninklijke Marechaussee is bevoegd aan controle te onderwerpen:
+    a. Personen en/of vervoermiddelen en/of plaatsen voor distributie en overslag voor goederen die over de weg worden vervoerd, havens, haventerreinen, luchthavens, grensinspectiepost en luchtvaartterreinen.
+    b. Controle zoals beschreven in lid 1 is alleen van toepassing op gebieden die staan gemarkeerd als douanegebied op de douanekaart. Zie hiervoor de kaart douanegebieden in het wetboek.
+    c. Uitzondering op lid 1b betreft vervoersmiddelen en/of personen, die aantoonbaar door de Koninklijke Marechaussee, vanuit open water het binnenland of binnenwater betreden.
+    d. Indien een vaartuig en/of watervliegtuig op of naast een strand word aangetroffen, is de Koninklijke Marechaussee bevoegd het vaartuig en/of watervliegtuig, de personen en aanwezige voertuigen rondom het vaartuig en/of watervliegtuig binnen een straal van 50 meter (shoutingring) te controleren.
+    e. Indien een persoon binnen een straal van 50 meter, zoals genoemd in dit artikel lid 1 onder d, en zijn/haar voertuig buiten deze straal bevind, is de Koninklijke Marechaussee bevoegd dit voertuig te controleren. Dit voertuig dient op naam te staan van de persoon in aanwezigheid van de genoemde straal.
 2. Onder controle in de zin van lid 1 wordt mede verstaan doorzoeking en fouillering.
 3. Fouillering geschiedt op een besloten plaats door dienstdoend personeel die van hetzelfde geslacht zijn als de persoon die aan fouillering wordt onderworpen.
 4. Onder fouillering zoals beschreven in lid 2 en lid 3 wordt verstaan: het onderzoek aan de kleding; en/of het verwijderen van de kleding, teneinde deze aan een nauwkeurig onderzoek te onderwerpen. Verwijderen van onderkleding is niet toegestaan.
-5. De douane is bevoegd met het oog op de uitoefening van de bevoegdheden, zoals bedoeld in dit artikel, de bestuurder dan wel de gezagvoerder van het vervoermiddel te vorderen dat deze zijn vervoermiddel vaart laat minderen, bijdraait, landt, stilhoudt, naar een door hem aangewezen plaats overbrengt, aanlegt en de motor buiten werking stelt. De in dit lid bedoelde personen zijn gehouden aan de vordering te voldoen.
-6. De douane is bevoegd personen die aanwezig zijn in of op de in dit artikel bedoelde locaties of vervoermiddelen of deze juist gaan betreden of hebben verlaten aan fouillering te onderwerpen.
-7. De douane maakt van zijn bevoegdheden slechts gebruik voorzover dat redelijkerwijs voor de vervulling van zijn taak nodig is.
+5. De Koninklijke Marechaussee is bevoegd met het oog op de uitoefening van de bevoegdheden, zoals bedoeld in dit artikel, de bestuurder dan wel de gezagvoerder van het vervoermiddel te vorderen dat deze zijn vervoermiddel vaart laat minderen, bijdraait, landt, stilhoudt, naar een door hem aangewezen plaats overbrengt, aanlegt en de motor buiten werking stelt. De in dit lid bedoelde personen zijn gehouden aan de vordering te voldoen.
+6. De Koninklijke Marechaussee is bevoegd personen die aanwezig zijn in of op de in dit artikel bedoelde locaties of vervoermiddelen of deze juist gaan betreden of hebben verlaten aan fouillering te onderwerpen.
+7. De Koninklijke Marechaussee maakt van zijn bevoegdheden slechts gebruik voorzover dat redelijkerwijs voor de vervulling van zijn taak nodig is.
 
 ## Titel XI – Bewijs
 
