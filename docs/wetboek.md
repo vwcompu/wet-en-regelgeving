@@ -148,7 +148,7 @@
 
 ## Titel I - Vermogensdelicten
 
-![Titel I](img/wetboek/Vermogen.webp)
+
 
 ### Artikel I-1 Diefstal (310 SR)
 
