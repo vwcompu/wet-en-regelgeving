@@ -7,6 +7,6 @@ De volgende gebieden zijn aangemerkt als no fly zones.
 * Blokkenpark tot een hoogte van 300 meter (1000 feet)
 * Vliegdekschip
 
-Hier onder staan deze zones weergegeven op de kaart van Tedeapolis.
+Hier onder staan deze zones weergegeven op de kaart van Vereon Roleplay.
 
 ![No fly zones](img/restrictedAirspace.webp)
