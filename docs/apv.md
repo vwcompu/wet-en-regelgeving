@@ -1,18 +1,18 @@
-# Algemene Plaatselijke Verordening Tedeapolis
+# Algemene Plaatselijke Verordening Vereon Roleplay
 
 ## Wetstechnische informatie
 
 | | |
 |---|---|
-| Overheidsorganisatie      | Hoge Raad Tedeapolis |
-| Officiële naam regeling   | Algemene Plaatselijke Verordening Tedeapolis|
-| Citeertitel               | Algemene Plaatselijke Verordening Tedeapolis|
+| Overheidsorganisatie      | Hoge Raad Vereon |
+| Officiële naam regeling   | Algemene Plaatselijke Verordening Vereon|
+| Citeertitel               | Algemene Plaatselijke Verordening Vereon|
 | Vastgesteld door          | De Hoge Raad|
 | Onderwerp                 | Openbare orde en veiligheid|
 
 ### Opmerkingen met betrekking tot de verordening
 
-Het Wetboek van Strafrecht, specifiek bedoeld voor Tedeapolis, wordt hierbij ingetrokken en vervangen door deze APV.
+Het Wetboek van Strafrecht, specifiek bedoeld voor Vereon Roleplay, wordt hierbij ingetrokken en vervangen door deze APV.
 
 ## Algemene Bepalingen
 
@@ -51,7 +51,7 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Tedeapolis, wordt hierbij ing
 
 ### A4 - Aanvullende Wetten en regels
 
-1. Aanvullend op de APV is er het Wetboek Tedeapolis (WTDA), waarin alle wetten, artikelen en bepalingen zijn opgenomen die gelden in Tedeapolis.
+1. Aanvullend op de APV is er het Wetboek Vereon Roleplay (WTDA), waarin alle wetten, artikelen en bepalingen zijn opgenomen die gelden in Tedeapolis.
    * In dit Wetboek is opgenomen alle criminele feiten, de bijbehorende boetes, gevangenisstraffen enzovoorts.
 2. Dit Wetboek heeft, net als de APV, een basis in het Nederlands Recht.
    * Het Nederlands Recht is zodoende leidend, *tenzij* er een Wet of Bepaling is opgenomen in de WTDA. Dan is deze leidend.
