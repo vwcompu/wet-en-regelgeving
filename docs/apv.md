@@ -4,15 +4,15 @@
 
 | | |
 |---|---|
-| Overheidsorganisatie      | Hoge Raad Vereon Roleplay |
-| Officiële naam regeling   | Algemene Plaatselijke Verordening Vereon Roleplay|
-| Citeertitel               | Algemene Plaatselijke Verordening Vereon Roleplay|
+| Overheidsorganisatie      | Hoge Raad AQua Roleplay |
+| Officiële naam regeling   | Algemene Plaatselijke Verordening AQua Roleplay|
+| Citeertitel               | Algemene Plaatselijke Verordening AQua Roleplay|
 | Vastgesteld door          | De Hoge Raad|
 | Onderwerp                 | Openbare orde en veiligheid|
 
 ### Opmerkingen met betrekking tot de verordening
 
-Het Wetboek van Strafrecht, specifiek bedoeld voor Vereon Roleplay, wordt hierbij ingetrokken en vervangen door deze APV.
+Het Wetboek van Strafrecht, specifiek bedoeld voor AQua Roleplay, wordt hierbij ingetrokken en vervangen door deze APV.
 
 ## Algemene Bepalingen
 
