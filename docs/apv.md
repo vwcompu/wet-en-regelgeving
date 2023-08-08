@@ -1,18 +1,18 @@
-# Algemene Plaatselijke Verordening Vereon Roleplay
+# Algemene Plaatselijke Verordening AQua Roleplay
 
 ## Wetstechnische informatie
 
 | | |
 |---|---|
-| Overheidsorganisatie      | Hoge Raad Vereon Roleplay |
-| Officiële naam regeling   | Algemene Plaatselijke Verordening Vereon Roleplay|
-| Citeertitel               | Algemene Plaatselijke Verordening Vereon Roleplay|
+| Overheidsorganisatie      | Hoge Raad AQua Roleplay |
+| Officiële naam regeling   | Algemene Plaatselijke Verordening AQua Roleplay|
+| Citeertitel               | Algemene Plaatselijke Verordening AQua Roleplay|
 | Vastgesteld door          | De Hoge Raad|
 | Onderwerp                 | Openbare orde en veiligheid|
 
 ### Opmerkingen met betrekking tot de verordening
 
-Het Wetboek van Strafrecht, specifiek bedoeld voor Vereon Roleplay, wordt hierbij ingetrokken en vervangen door deze APV.
+Het Wetboek van Strafrecht, specifiek bedoeld voor AQua Roleplay, wordt hierbij ingetrokken en vervangen door deze APV.
 
 ## Algemene Bepalingen
 
@@ -31,7 +31,7 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Vereon Roleplay, wordt hierbi
 
 1. De straffen zijn onderverdeeld in zeven categorieën:
     * Categorie 1: een waarschuwing + 50 uur taakstraf
-        * (max 3 waarschuwingen in 1 maand, hierna volgt automatisch oplegging cat. 2)
+    * (max 3 waarschuwingen in 1 maand, hierna volgt automatisch oplegging cat. 2)
     * Categorie 2: een ban van maximaal 1 dag
     * Categorie 3: een ban van maximaal 2 dagen
     * Categorie 4: een ban van maximaal 3 dagen
