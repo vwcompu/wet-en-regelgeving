@@ -1,4 +1,4 @@
-# Belastingen binnen AQua Roleplay
+# Belastingen binnen SKY Roleplay
 
 ## Wegenbelasting
 
