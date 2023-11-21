@@ -47,7 +47,7 @@ Wanneer de OvJ betrokken wordt vanwege een strafzaak en de OvJ dus de rol van ad
 
 ## De rechtbank
 
-![Rechtbank](img/rechtspraak/rechtbank.webp)
+
 
 De rechtbank heeft een relatief kleine rol binnen Vereon Roleplay, maar wel met groot gevolg. Verreweg de meeste zaken zullen nooit voor de rechter verschijnen, omdat ze afgedaan kunnen worden door de politie en de officieren van Justitie (OvJ).
 
