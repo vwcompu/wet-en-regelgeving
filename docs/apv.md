@@ -162,10 +162,10 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 
 1. Er wordt van personen geacht realistisch rijgedrag aan te houden. Dus niet met circuit auto’s door de woestijn heen rijden met 100 km/u.
 2. Overtredingen van lid 1 worden bestraft met een straf van de 1e categorie.
-3. Buiten de weg rijden mag, mits dit met matige snelheid gedaan wordt en met een geschikt voertuig. Pas hierbij dus ook de snelheid aan voor het type voertuig. Een lijst met voertuigen en de verschillende classificaties is [hier](https://wetboek.SKYrp.nl/offroadvoertuigen/) te vinden.
+3. Buiten de weg rijden mag, mits dit met matige snelheid gedaan wordt en met een geschikt voertuig. Pas hierbij dus ook de snelheid aan voor het type voertuig. Een lijst met voertuigen en de verschillende classificaties is [hier](https://wet.skyroleplay.nl/offroadvoertuigen/) te vinden.
 4. In de spoorwegtunnels die zich onder de stad bevinden en alle tunnels die daar direct op aangesloten zijn is het enkel toegestaan om met voertuigen te rijden die de classificatie A hebben en dus onder het kopje Off-Road staan.
 5. De overtreding zoals beschreven in lid 1 staat bekend als “GTA style driving”.
-6. Op onverharde wegen is de maximale toegestane snelheid 50km/u voor alle voertuigen die niet genoemd staan onder het kopje onverhard of off-road [hier](https://wetboek.SKYrp.nl/offroadvoertuigen/).
+6. Op onverharde wegen is de maximale toegestane snelheid 50km/u voor alle voertuigen die niet genoemd staan onder het kopje onverhard of off-road [hier](https://wet.skyroleplay.nl/offroadvoertuigen/).
 
 ### Artikel 11 - Value of Life
 
@@ -493,7 +493,7 @@ Overtreding van lid 1 wordt bestraft met een straf in de 1e categorie.
 
 ### Artikel 49 - Voertuigverlies in water (bij achtervolging)
 
-1. Wanneer men een voertuig dumpt tijdens een achtervolging, waar bij deze in het water terecht komt, zal deze in beslag worden genomen conform [Artikel A7 - Inbeslagname](https://wetboek.SKYrp.nl/wetboek/#a7-inbeslagname).
+1. Wanneer men een voertuig dumpt tijdens een achtervolging, waar bij deze in het water terecht komt, zal deze in beslag worden genomen conform [Artikel A7 - Inbeslagname](https://wet.skyroleplay.nl/wetboek/#a7-inbeslagname).
 
 ### Artikel 50 - Schieten van uit een voertuig
 
@@ -633,7 +633,7 @@ Onderstaande regels tellen alleen op Narcopolis
 
 ### Bijlage 1
 
-![bijlage-1](https://tedeapolis.nl/wp-content/uploads/2021/08/Schermafbeelding_2021-08-23_om_10.png)
+
 
 ### Bijlage 2
 
