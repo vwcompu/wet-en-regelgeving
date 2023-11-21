@@ -1,4 +1,4 @@
-# Risicogebieden binnen AQua Roleplay
+# Risicogebieden binnen SKY Roleplay
 
 AQua Roleplay kent enkele risicogebieden. In een risicogebied mag preventief gefouilleerd worden. Dus dat wilt zeggen dat ook voertuigen gecontroleerd mogen worden. Hier onder zijn deze gebieden aangegeven.
 
