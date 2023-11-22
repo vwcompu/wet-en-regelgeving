@@ -4,10 +4,10 @@
 
 | | |
 |---|---|
-| Overheidsorganisatie      | Hoge Raad SKY Roleplay |
+| Overheidsorganisatie      | Bestuur SKY Roleplay |
 | Officiële naam            | Algemeen Wetboek SKY Roleplay |
 | Citeertitel               | Wetboek SKY Roleplay |
-| Vastgesteld door          | De Hoge Raad|
+| Vastgesteld door          | Bestuur|
 | Onderwerp                 | Openbare orde en veiligheid |
 
 ## Algemene Bepalingen
