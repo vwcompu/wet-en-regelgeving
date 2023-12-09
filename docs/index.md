@@ -15,8 +15,8 @@ SKY Roleplay heeft verschillende discord servers die zijn goed gekeurd door het 
 
 | Server | Beschrijving | Invite link |
 |---|---|:---:|
-|SKY Roleplay RolePlay| Main discord server van SKY Roleplay | [Invite](https://discord.gg/SKYroleplay) |
+|SKY Roleplay RolePlay| Main discord server van SKY Roleplay | [Invite](https://discord.gg/skyrpnl) |
 |SKY Roleplay overheid| Overheids discord server van SKY Roleplay | [Invite](https://discord.gg/vruCYP9aHg) |
 |SKY Roleplay Cardealer| Cardealer discord server van SKY Roleplay | [Invite](https://discord.gg//2bBhTydaet) |
-|SKY Roleplay Flightschool| Vliegschool discord server van SKY Roleplay | [Invite](https://discord.gg/SKYroleplay) |
-|Ministerie van Justitie en Veiligheid| Ministerie van Justitie en Veiligheid van SKY Roleplay | [Invite](https://discord.gg/SKYroleplay) |
+|SKY Roleplay website| website van  SKY Roleplay | [website](https://www.skyroleplay.nl) |
+|Ministerie van Justitie en Veiligheid| Ministerie van Justitie en Veiligheid van SKY Roleplay | [Invite](https://discord.gg/skyrpnl) |
