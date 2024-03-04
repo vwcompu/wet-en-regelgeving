@@ -1,24 +1,24 @@
-# Algemene Plaatselijke Verordening SKY Roleplay
+# Algemene Plaatselijke Verordening AQUA Roleplay
 
 ## Wetstechnische informatie
 
 | | |
 |---|---|
-| Overheidsorganisatie      | Hoge Raad SKY Roleplay |
-| Officiële naam regeling   | Algemene Plaatselijke Verordening SKY Roleplay|
-| Citeertitel               | Algemene Plaatselijke Verordening SKY Roleplay|
+| Overheidsorganisatie      | Hoge Raad AQUA Roleplay |
+| Officiële naam regeling   | Algemene Plaatselijke Verordening AQUA Roleplay|
+| Citeertitel               | Algemene Plaatselijke Verordening AQUA Roleplay|
 | Vastgesteld door          | De Hoge Raad|
 | Onderwerp                 | Openbare orde en veiligheid|
 
 ### Opmerkingen met betrekking tot de verordening
 
-Het Wetboek van Strafrecht, specifiek bedoeld voor SKY Roleplay, wordt hierbij ingetrokken en vervangen door deze APV.
+Het Wetboek van Strafrecht, specifiek bedoeld voor AQUA Roleplay, wordt hierbij ingetrokken en vervangen door deze APV.
 
 ## Algemene Bepalingen
 
 ### A1 - Reikwijdte
 
-1. Deze Algemene Plaatselijke Verordening (verder aangeduid als APV) is bedoeld als aanvulling op het Nederlands Recht en heeft betrekking op het eiland, de gemeente, en de stad SKY Roleplay.
+1. Deze Algemene Plaatselijke Verordening (verder aangeduid als APV) is bedoeld als aanvulling op het Nederlands Recht en heeft betrekking op het eiland, de gemeente, en de stad AQUA Roleplay.
 2. De APV biedt een indicerend kader voor eventuele bestraffing in-game (“in RP”), maar is verder bedoeld voor het afhandelen van straffen buiten de RP om.
 
 ### A2 - Geldigheid
@@ -51,7 +51,7 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor SKY Roleplay, wordt hierbij i
 
 ### A4 - Aanvullende Wetten en regels
 
-1. Aanvullend op de APV is er het Wetboek SKY Roleplay (WTDA), waarin alle wetten, artikelen en bepalingen zijn opgenomen die gelden in SKY Roleplay.
+1. Aanvullend op de APV is er het Wetboek AQUA Roleplay (WTDA), waarin alle wetten, artikelen en bepalingen zijn opgenomen die gelden in AQUA Roleplay.
    * In dit Wetboek is opgenomen alle criminele feiten, de bijbehorende boetes, gevangenisstraffen enzovoorts.
 2. Dit Wetboek heeft, net als de APV, een basis in het Nederlands Recht.
    * Het Nederlands Recht is zodoende leidend, *tenzij* er een Wet of Bepaling is opgenomen in de WTDA. Dan is deze leidend.
@@ -119,7 +119,7 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor SKY Roleplay, wordt hierbij i
 4. Voor communicatie over lengte in game kun je een telefoon en/of portofoon gebruiken welke je in de telefoon winkel kunt kopen.
 5. Bij het gebruik van een portofoon-systeem in welke vorm dan ook dient de persoon die praat ook ingame te horen te zijn.
 6. Het niet naleven van het feit beschreven in lid 5 staat eveneens bekend als "meta-gaming" en zal worden bestraft worden met een straf van de 1e categorie
-7. Wanneer je met meerdere mensen die op SKY Roleplay spelen in een voice call zit is streamen niet toegestaan en moet je gedeafened en gemute zijn.
+7. Wanneer je met meerdere mensen die op AQUA Roleplay spelen in een voice call zit is streamen niet toegestaan en moet je gedeafened en gemute zijn.
 8. Het overtreden van lid 7 zal resulteren in een straf van minimaal de 1e categorie.
 9. Om een overvalscenario uit te voeren is het toegestaan om via Discord aanvullende documenten en bijlagen te sturen. Dit dient echter altijd ondersteund te worden door middel van een in-game document.
 10. Ten behoeve van het handhaven van dit artikel is een stafflid bevoegd om beelden op te vragen van de persoon die verdacht wordt van het overtreden van lid 7. Indien de speler dit niet kan, dan volgt er een straf volgens lid 3.
@@ -128,7 +128,7 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor SKY Roleplay, wordt hierbij i
 
 1. Er wordt geacht dat de kleding wordt gedragen die is verstrekt door de baas voor het uitvoeren van het beroep. Wordt dit niet gedaan, zal er gestraft worden met een straf volgens de 2e categorie.
 2. Hij/zij die als niet ambtenaar kleding draagt van één van de overheids banen zal gestraft worden met een straf volgens de 2e categorie.
-3. Officiële kleding verstrekt vanuit SKY Roleplay bedoeld voor specifieke groeperingen mogen niet door andere gebruikt worden tenzij hier sterke roleplay aan verbonden is.
+3. Officiële kleding verstrekt vanuit AQUA Roleplay bedoeld voor specifieke groeperingen mogen niet door andere gebruikt worden tenzij hier sterke roleplay aan verbonden is.
 4. Overtreding van lid 3 zal worden bestraft met een straf uit van de 1e categorie.
 5. Onder ambtenaar vallen de mensen in dienst bij één van de volgende instanties:
     * Politie
@@ -162,10 +162,10 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 
 1. Er wordt van personen geacht realistisch rijgedrag aan te houden. Dus niet met circuit auto’s door de woestijn heen rijden met 100 km/u.
 2. Overtredingen van lid 1 worden bestraft met een straf van de 1e categorie.
-3. Buiten de weg rijden mag, mits dit met matige snelheid gedaan wordt en met een geschikt voertuig. Pas hierbij dus ook de snelheid aan voor het type voertuig. Een lijst met voertuigen en de verschillende classificaties is [hier](https://wet.skyroleplay.nl/offroadvoertuigen/) te vinden.
+3. Buiten de weg rijden mag, mits dit met matige snelheid gedaan wordt en met een geschikt voertuig. Pas hierbij dus ook de snelheid aan voor het type voertuig. Een lijst met voertuigen en de verschillende classificaties is [hier](https://wet.AQUAroleplay.nl/offroadvoertuigen/) te vinden.
 4. In de spoorwegtunnels die zich onder de stad bevinden en alle tunnels die daar direct op aangesloten zijn is het enkel toegestaan om met voertuigen te rijden die de classificatie A hebben en dus onder het kopje Off-Road staan.
 5. De overtreding zoals beschreven in lid 1 staat bekend als “GTA style driving”.
-6. Op onverharde wegen is de maximale toegestane snelheid 50km/u voor alle voertuigen die niet genoemd staan onder het kopje onverhard of off-road [hier](https://wet.skyroleplay.nl/offroadvoertuigen/).
+6. Op onverharde wegen is de maximale toegestane snelheid 50km/u voor alle voertuigen die niet genoemd staan onder het kopje onverhard of off-road [hier](https://wet.AQUAroleplay.nl/offroadvoertuigen/).
 
 ### Artikel 11 - Value of Life
 
@@ -366,19 +366,19 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 
 ### Artikel 34 - Roleplay & Ledenaantal Criminele Organisaties
 
-1. Onder "criminele organisaties" vallen alle officiële groepen gevestigd in SKY Roleplay.
+1. Onder "criminele organisaties" vallen alle officiële groepen gevestigd in AQUA Roleplay.
 2. Criminele organisaties mogen een maximaal ledenaantal van 25 personen hebben. Hierin is een vrije keuze voor het aantal leden met de "hangaround" rang.
 3. Bij een overtreding van het ledenaantal genoemd in lid 2 zal een straf worden uitgedeeld volgens de 1e categorie aan de eigena(a)r(en) van de organisatie.
 4. Bij herhaling van het overtreden van lid 2 zal een straf van de 2e categorie volgen en wordt er een gangstrike uitgedeeld aan de organisatie.
 5. Criminele organisaties mogen met een maximum aantal van 20 personen een roleplay scenario houden. Dit mag met hun volledige organisatie of met leden van andere officiële of onofficïele organisatie. Hierbij geldt een maximum van 2 groepen die mogen samenwerken.
-6. Een voorwaarde voor het samenwerken tussen criminele organisaties is dat er geen volledige samenwerking tussen alle organisaties ontstaat en dat dit niet gebeurd tijdens het witwassen van geld. Dit is ter beoordeling van de Hoge Raad van SKY Roleplay.
-7. Wanneer officiële organisaties een samenwerking aangaan met een andere officiële organisatie dan dient dit gemeld te worden volgens het [format](/apv/#bijlage-2) in het daarvoor aangemaakte kanaal in de SKY Roleplay Discord.
+6. Een voorwaarde voor het samenwerken tussen criminele organisaties is dat er geen volledige samenwerking tussen alle organisaties ontstaat en dat dit niet gebeurd tijdens het witwassen van geld. Dit is ter beoordeling van de Hoge Raad van AQUA Roleplay.
+7. Wanneer officiële organisaties een samenwerking aangaan met een andere officiële organisatie dan dient dit gemeld te worden volgens het [format](/apv/#bijlage-2) in het daarvoor aangemaakte kanaal in de AQUA Roleplay Discord.
 8. Bij overtreding of niet nakomen van lid 5, 6 en/of 7 zal dit resulteren in een straf volgens de 5e categorie voor iedereen die meedeed aan het roleplayscenario.
 9. Bij herhaling van het overtreden of niet nakomen van lid 5, 6 en/of 7 zal naast een straf van de 6e categorie ook een gangstrike uitgedeeld worden.
 
 ### Artikel 35 - Gedrag Criminele Organisaties
 
-1. Wanneer de leden in een server supporSKY organisatie zodanig opvallen op een negatieve manier (bijvoorbeeld veel warnings), zal de Hoge Raad beslissen over een gepaste straf jegens deze organisatie. Bij criminele organisaties kan dit zelfs leiden tot een volledige opschorting van de groep.
+1. Wanneer de leden in een server supporAQUA organisatie zodanig opvallen op een negatieve manier (bijvoorbeeld veel warnings), zal de Hoge Raad beslissen over een gepaste straf jegens deze organisatie. Bij criminele organisaties kan dit zelfs leiden tot een volledige opschorting van de groep.
 
 ### Artikel 36 - Illegale activiteiten op Twitter
 
@@ -482,7 +482,7 @@ Overtreding van lid 1 wordt bestraft met een straf in de 1e categorie.
 ### Artikel 47 - Discord
 
 1. Het is niet toegestaan om externe discords te gebruiken voor roleplay gerelateerde zaken.
-2. Wanneer je met meerdere mensen die op SKY Roleplay spelen in een voicecall zit, is streamen niet toegestaan en moet je gedeafened en gemute zijn. Als één persoon in-game is en de rest niet en je besluit om alsnog in een call te zitten zonder dat je gedeafened/gemute bent, ben je dus ook in overtreding van deze regel.
+2. Wanneer je met meerdere mensen die op AQUA Roleplay spelen in een voicecall zit, is streamen niet toegestaan en moet je gedeafened en gemute zijn. Als één persoon in-game is en de rest niet en je besluit om alsnog in een call te zitten zonder dat je gedeafened/gemute bent, ben je dus ook in overtreding van deze regel.
 3. Het streamen van de main server in een discord server is nooit toegestaan, tenzij je expliciet toestemming hebt van een stafflid.
 4. Het overtreden van het feit genoemd in lid 1, 2 of 3 zal resulteren in een straf van de 1e categorie.
 5. Het overtreden van het feit genoemd in lid 1, 2 of 3 als eigenaar, moderator en/of stafflid van deze server zal resulteren in een straf van de 7e categorie.
@@ -493,7 +493,7 @@ Overtreding van lid 1 wordt bestraft met een straf in de 1e categorie.
 
 ### Artikel 49 - Voertuigverlies in water (bij achtervolging)
 
-1. Wanneer men een voertuig dumpt tijdens een achtervolging, waar bij deze in het water terecht komt, zal deze in beslag worden genomen conform [Artikel A7 - Inbeslagname](https://wet.skyroleplay.nl/wetboek/#a7-inbeslagname).
+1. Wanneer men een voertuig dumpt tijdens een achtervolging, waar bij deze in het water terecht komt, zal deze in beslag worden genomen conform [Artikel A7 - Inbeslagname](https://wet.AQUAroleplay.nl/wetboek/#a7-inbeslagname).
 
 ### Artikel 50 - Schieten van uit een voertuig
 
@@ -645,4 +645,4 @@ Het doel van deze samenwerking is [korte omschrijving van de samenwerking].
 ```
 
 ---------------------
-APV opgesteld uit naam van de Hoge Raad, bedoeld voor het eiland, de gemeente en de stad “SKY Roleplay”, opgetekend door Tom Kapoet, te SKY Roleplay.
+APV opgesteld uit naam van de Hoge Raad, bedoeld voor het eiland, de gemeente en de stad “AQUA Roleplay”, opgetekend door Tom Kapoet, te AQUA Roleplay.
