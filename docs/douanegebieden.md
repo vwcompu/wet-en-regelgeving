@@ -1,4 +1,4 @@
-# Douanegebieden binnen sky Roleplay
+# Douanegebieden binnen AQUA Roleplay
 
 AQua Roleplay kent enkele douanegebieden. In een risicogebied mag preventief gefouilleerd worden. Dus dat wilt zeggen dat ook voertuigen gecontroleerd mogen worden. Hier onder zijn deze gebieden aangegeven.
 
