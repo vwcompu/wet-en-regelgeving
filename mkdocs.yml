@@ -1,18 +1,18 @@
 # Project information
-site_name: SKT Roleplay wet en regelgeving
-site_url: 'https://wetboek.skyroleplay.nl/'
-site_description: 'Wet en regelgeving van Tedeapolis roleplay'
-site_author: 'Tedeapolis'
+site_name: aqua Roleplay wet en regelgeving
+site_url: 'https://wetboek.aquaroleplay.nl/'
+site_description: 'Wet en regelgeving van AQUA roleplay'
+site_author: 'vwcompu'
 
 # Copyright
 copyright: Copyright &copy; 2019 - 2022 SkY
 
 # Repository
-repo_url: 'https://github.com/Tedeapolis/wet-en-regelgeving/'
-repo_name: 'Tedeapolis/wet-en-regelgeving'
-edit_uri: 'https://github.com/Tedeapolis/wet-en-regelgeving/blob/master/docs/'
+repo_url: 'https://github.com/vwcompu/wet-en-regelgeving/'
+repo_name: 'vwcompu/wet-en-regelgeving'
+edit_uri: 'https://github.com/vwcompu/wet-en-regelgeving/blob/master/docs/'
 
-google_analytics: ['UA-167800475-3', 'wetboek.tedeapolis.nl']
+google_analytics: ['UA-167800475-3', 'wetboek.vwcompu.nl']
 
 # Congiguration
 theme:
@@ -30,8 +30,8 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Switch to system preference
-  favicon: img/logoTedeapolis.png
-  logo: img/logoTedeapolis.webp
+  favicon: img/logovwcompu.png
+  logo: img/logovwcompu.webp
   custom_dir: docs/overrides
   language: nl
   features:
@@ -68,7 +68,7 @@ nav:
   - NOTAM: notam.md
   - Belastingen: belastingen.md
   - Regelement voor de rechtspraak: rechtspraak.md
-  - Streamen op Tedeapolis: streamen.md
+  - Streamen op vwcompu: streamen.md
   - Offroad Voertuigen: offroadvoertuigen.md
   - Kosten:
     - Advocatuur: kosten/advocatuur.md
